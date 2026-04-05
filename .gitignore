@@ -1,0 +1,13 @@
+*.so
+*.o
+*.a
+*.out  
+a.out
+*.exe
+*.dll
+__pycache__/
+*.pyc
+node_modules/
+.env
+dist/
+build/
